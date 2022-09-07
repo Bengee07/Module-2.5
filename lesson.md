@@ -50,7 +50,7 @@ Whether you are an individual developer or operate a team of data engineers and 
 
 ---
 
-## Part 2 - Benefits of 
+## Part 2 - Benefits of Database-as-a-service
 
 Compared to deploying a database management system on-premises, DBaaS offers your organization significant financial, operational, and strategic benefits:
 
