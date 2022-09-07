@@ -10,10 +10,61 @@ Developments in cloud technology make it possible to replicate almost any data c
 
 ---
 
-## Part 1 - Database and Database Type
+## Part 1 - SQL & NoSQL Database
 
-Insert Instructions
+SQL is a decades-old method for accessing relational databases, and most who work with databases are familiar with it. As unstructured data, amounts of storage and processing power and types of analytics have changed over the years, however, we’ve seen different database technologies become available that are a better fit for newer types of use cases. These databases are commonly called NoSQL.
 
+SQL and NoSQL differ in whether they are relational (SQL) or non-relational (NoSQL), whether their schemas are predefined or dynamic, how they scale, the type of data they include and whether they are more fit for multi-row transactions or unstructured data.
+
+
+### What is a SQL database?
+
+SQL, which stands for “Structured Query Language,” is the programming language that’s been widely used in managing data in relational database management systems (RDBMS) since the 1970s. In the early years, when storage was expensive, SQL databases focused on reducing data duplication.
+
+
+Fast-forward to today, and SQL is still widely used for querying relational databases, where data is stored in rows and tables that are linked in various ways. One table record may link to one other or to many others, or many table records may be related to many records in another table. These relational databases, which offer fast data storage and recovery, can handle great amounts of data and complex SQL queries.
+
+
+### What is a NoSQL database?
+
+NoSQL is a non-relational database, meaning it allows different structures than a SQL database (not rows and columns) and more flexibility to use a format that best fits the data. The term “NoSQL” was not coined until the early 2000s. It doesn’t mean the systems don’t use SQL, as NoSQL databases do sometimes support some SQL commands. More accurately, “NoSQL” is sometimes defined as “not only SQL.”
+
+
+### How SQL works
+
+SQL databases are valuable in handling structured data, or data that has relationships between its variables and entities.
+
+**- Scalability**
+
+In general, SQL databases can scale vertically, meaning you can increase the load on a server by migrating to a larger server that adds more CPU, RAM or SSD capability. While vertical scalability is used most frequently, SQL databases can also scale horizontally through sharding or partitioning logic, although that’s not well-supported.
+
+**- Structure**
+
+SQL database schema organizes data in relational, tabular ways, using tables with columns or attributes and rows of records. Because SQL works with such a strictly predefined schema, it requires organizing and structuring data before starting with the SQL database.
+
+
+**- Properties**
+
+RDBMS, which use SQL, must exhibit four properties, known by the acronym ACID. These ensure that transactions are processed successfully and that the SQL database has a high level of reliability:
+
+- Atomicity: All transactions must succeed or fail completely and cannot be left partially complete, even in the case of system failure.
+- Consistency: The database must follow rules that validate and prevent corruption at every step.
+- Isolation: Concurrent transactions cannot affect each other.
+- Durability: Transactions are final, and even system failure cannot “roll back” a complete transaction.
+
+**- Support**
+
+Because SQL databases have a long history now, they have huge communities, and many examples of their stable codebases online. There are many experts available to support SQL and programming relational data.
+
+**Examples of SQL databases**
+
+- MySQL
+- PostgreSQL
+- YugabyteDB
+- CockroachDB
+- Oracle Database
+- Microsoft SQL Server
+- Azure SQL Database
 
 ---
 
