@@ -10,13 +10,28 @@ Developments in cloud technology make it possible to replicate almost any data c
 
 ---
 
-## Part 1 - Summary of Database-as-a-service
+## Part 1 - Database and Database Type
+
+Insert Instructions
+
+
+---
+
+## Part 2 - Summary of Database-as-a-service
 
 ![image](https://user-images.githubusercontent.com/106639884/188791209-8c801f66-9d24-4ae8-982f-0c6d9c6a43e4.png)
 
+
 ### What is a Database-as-a-service?
 
-Database-as-a-service (DBaaS) is a cloud computing service. As a hosted/managed service, users don’t have to worry about setting up hardware or installing software. Everything related to managing the database is handled by the service provider.
+Like SaaS, PaaS and IaaS of cloud computing we can consider DBaaS (also known as Managed Database Service) as a cloud computing service. It allows users associated with database activities to access and use a cloud database system without purchasing it.
+
+
+DBaaS and cloud database comes under Software as a Service (SaaS) whose demand is growing so fast
+In simple we can say Database as a Service (DBaaS) is self service/ on demand database consumption coupled with automation of operations. As we know cloud computing services are like pay per use so DBaaS also based on same payment structure like how much you will use just pay for your usage. This DBaaS provides same function as like standard traditional and relational database models. So using DBaaS, organizations can avoid data base configuration, management, upgradation and security.
+
+
+DBaaS consists of an info manager element, that controls all underlying info instances via API. This API is accessible to the user through a management console, typically an online application, that the user might use to manage and assemble the info and even provision or deprovision info instances.
 
 
 Database hosting options are available for all database types, including NoSQL, MySQL, and PostgreSQL. MongoDB Atlas is one example of a NoSQL DBaaS service that is easily scalable.
@@ -50,7 +65,7 @@ Whether you are an individual developer or operate a team of data engineers and 
 
 ---
 
-## Part 2 - Benefits of Database-as-a-service
+## Part 3 - Benefits of Database-as-a-service
 
 Compared to deploying a database management system on-premises, DBaaS offers your organization significant financial, operational, and strategic benefits:
 
@@ -85,6 +100,6 @@ The major cloud providers offer a wide variety of highly configurable DBaaS opti
 
 ---
 
-## Part 3 - Insert Summary
+## Part 4 - Insert Summary
 
 Insert Instructions
