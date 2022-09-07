@@ -55,24 +55,31 @@ Whether you are an individual developer or operate a team of data engineers and 
 Compared to deploying a database management system on-premises, DBaaS offers your organization significant financial, operational, and strategic benefits:
 
 **- Cost savings**
+
 Laying down infrastructure for database management is expensive; scaling it as needed is costly and often wasteful. With DBaaS, your organization pays a predictable periodic charge based on the resources you consume—there’s no need to purchase additional capacity to have on hand for hypothetical future needs.
 
 **- Scalability—up and down**
+
 You can quickly and easily provision additional storage and computing capacity at run time if you need it, and you can scale down your database cluster during non-peak usage times to save cost.
 
 **- Simpler, less costly management**
+
 To manage and maintain a database on-premises, you’d need an in-house administrative team. With DBaaS, the cloud provider manages everything (although you can choose to manage certain aspects yourself if you wish). DBaaS lightens the administrative burden on your existing IT staff and frees them to work on applications and innovation.
 
 **- Rapid development and faster time-to-market**
+
 With an on-premises database system, development teams typically need to request access through IT, a process that can take days or weeks. In contrast, with DBaaS, developers can help themselves to database capabilities and spin up and configure a database that’s ready to integrate with their application in minutes.
 
 **- Data and application security**
+
 Cloud database providers typically offer enterprise grade security, including features like default encryption of data at rest and in-transit and integrated identity and access management controls. Some also meet specific regulatory compliance standards.
 
 **- Reduced risk**
+
 DBaaS offerings from major cloud providers typically include a service-level agreement (SLA) guaranteeing a certain amount of uptime. In the unlikely event that your provider doesn’t meet the requirements stipulated in the SLA, you’ll be compensated for any excess downtime you experience.
 
 **- Software quality**
+
 The major cloud providers offer a wide variety of highly configurable DBaaS options—each preselected for quality, so you won’t have to worry about the wading through hundreds of different databases.
 
 
