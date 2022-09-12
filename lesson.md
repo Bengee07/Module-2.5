@@ -228,4 +228,4 @@ The major cloud providers offer a wide variety of highly configurable DBaaS opti
 
 ## Part 4 - Amazon RDS for MySQL
 
-Insert Instructions
+<img width="913" alt="image" src="https://user-images.githubusercontent.com/106639884/189642744-4e719ae4-511a-43ae-a3ec-47d2844996df.png">
