@@ -226,6 +226,6 @@ The major cloud providers offer a wide variety of highly configurable DBaaS opti
 
 ---
 
-## Part 4 - Insert Summary
+## Part 4 - Amazon RDS for MySQL
 
 Insert Instructions
