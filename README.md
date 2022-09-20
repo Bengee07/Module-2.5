@@ -10,10 +10,11 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- Insert the knowledge to be acquired
+- What is database as a services
 
 Learners will be able to:
-- Insert the skillset to be acquired
+- Basic differences between SQL and NoSQL database
+- Create database on AWS
 
 
 ## Lesson Plan
