@@ -251,3 +251,4 @@ You or your group have discussed a specific case or business. If you will implem
 |-|-|
 |Which will you choose to be implemented on your company?|_Answer here_|
 |What is the main factor when you choose that answer?|_Answer here_|
+|What is the 2nd option database that you will consider to be used??|_Answer here_|
