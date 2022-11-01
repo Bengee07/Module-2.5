@@ -67,6 +67,16 @@ Because SQL databases have a long history now, they have huge communities, and m
 - Azure SQL Database
 
 
+### Activity - Create AWS SQL Database
+
+- Open your AWS console
+- Create AWS MySQL database on console.
+- Drop the database after created
+
+
+<img width="913" alt="image" src="https://user-images.githubusercontent.com/106639884/189642744-4e719ae4-511a-43ae-a3ec-47d2844996df.png">
+
+
 ---
 
 ## Part 2 - NoSQL Database
@@ -112,6 +122,13 @@ The CAP theorem says that distributed data systems allow a trade-off that can gu
 - BigTable
 - Neo4j
 - HBase
+
+
+### Activity - Create AWS DynamoDB
+
+- Open your AWS console
+- Create AWS DynamoDB on console.
+- Drop the database after created
 
 
 ## When to use SQL vs NoSQL
@@ -226,9 +243,11 @@ The major cloud providers offer a wide variety of highly configurable DBaaS opti
 
 ---
 
-## Part 4 - Amazon RDS for MySQL
+## Part 4 - Brainstorming Activity - MySQL or NoSQL
 
-1. Open AWS Console
-2. Create new database on Amazon RDS for MySQL
+You or your group have discussed a specific case or business. If you will implement MySQL or NoSQL in your business, let's answer the following questions based on your business/case
 
-<img width="913" alt="image" src="https://user-images.githubusercontent.com/106639884/189642744-4e719ae4-511a-43ae-a3ec-47d2844996df.png">
+|Qns|Ans|
+|-|-|
+|Which will you choose to be implemented on your company?|_Answer here_|
+|What is the main factor when you choose that answer?|_Answer here_|
