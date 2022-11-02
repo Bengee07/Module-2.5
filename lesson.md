@@ -66,6 +66,17 @@ Because SQL databases have a long history now, they have huge communities, and m
 - Microsoft SQL Server
 - Azure SQL Database
 
+### Activity - SQL
+
+Lets spend 5-10 Mins to explore AWS & GCP about SQL. Let's answer the following questions based on your opinion
+
+|Qns|Ans|
+|-|-|
+|What are SQL databases that available on AWS?|_Answer here_|
+|What are SQL databases that available on Google Cloud Platform?|_Answer here_|
+
+---
+
 
 ### Activity - Create AWS SQL Database
 
@@ -122,6 +133,16 @@ The CAP theorem says that distributed data systems allow a trade-off that can gu
 - BigTable
 - Neo4j
 - HBase
+
+
+### Activity - NoSQL
+
+Lets spend 5-10 Mins to explore AWS and Google Cloud Platform about NoSQL. Let's answer the following questions based on your findings
+
+|Qns|Ans|
+|-|-|
+|What are NoSQL databases that available on AWS?|_Answer here_|
+|What are NoSQL databases that available on Google Cloud Platform?|_Answer here_|
 
 
 ### Activity - Create AWS DynamoDB
