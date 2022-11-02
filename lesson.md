@@ -156,6 +156,14 @@ Scalability is a significant benefit of NoSQL databases. Unlike with SQL, their 
 
 Other big companies that use NoSQL systems because they are dependent on large volumes of data not suited to a relational database include Amazon, Google and Netflix. In general, the more extensive the dataset, the more likely that NoSQL is a better choice.
 
+### Activity Check In - SQL or NoSQL
+
+Now you already now the difference MySQL and NoSQL. Let's answer the following questions based on your opinion
+
+|Qns|Ans|
+|-|-|
+|What is 3 keywords that will describe SQL database?|_Answer here_|
+|What is 3 keywords that will describe NoSQL database?|_Answer here_|
 
 ---
 
@@ -251,4 +259,4 @@ You or your group have discussed a specific case or business. If you will implem
 |-|-|
 |Which will you choose to be implemented on your company?|_Answer here_|
 |What is the main factor when you choose that answer?|_Answer here_|
-|What is the 2nd option database that you will consider to be used??|_Answer here_|
+|What is the 2nd option database that you will consider to be used?|_Answer here_|
